@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ali DEMİR</h1>
+<h1 align="center">Hi, I'm Ali DEMİR</h1>
 <h3 align="center">I am a Turkish developer.</h3>
 
-- 🔭 I’m currently working on <a href="https://voseraproject.tr">VoseraProject</a>  
-- 🌱 I’m currently learning <b>Node.js</b>  
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ByVoxar/byvoxar">GitHub</a>  
-- 📫 How to reach me <b>demir41800@gmail.com</b>  
+-  I’m currently working on <a href="https://voseraproject.com.tr">VoseraProject</a>  
+-  I’m currently learning <b>Node.js</b>  
+-  All of my projects are available at <a href="https://github.com/ByVoxar/byvoxar">GitHub</a>  
+-  How to reach me <b>demir41800@gmail.com</b>  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left"> GitHub Stats:</h3>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=byvoxar&show_icons=true&locale=en&layout=compact" />
@@ -58,7 +58,7 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center"> Contribution Snake</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toramanarda/toramanarda/output/github-contribution-grid-snake-dark.svg">
